@@ -6,7 +6,7 @@ This project aims to analyze the sentiment of comments within the PowerToys proj
 
 ## Motivation
 
-The motivation behind this project lies in the recognition of the importance of understanding the emotional tone of team communications within software development projects. By analyzing sentiment, we can identify trends, patterns, and potential issues that may impact team collaboration, morale, and productivity. This information can inform project management decisions and help create a more positive and supportive work environment.
+The project is part of acedemic work for Advanced Artificial Intelligence Course at Southeast Missouri State University.
 
 ## Features
 
